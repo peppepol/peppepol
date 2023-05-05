@@ -1,5 +1,5 @@
 ## Hi there 💻
-- 📚 I’m currently studying Computer Engineering ...
+- 💻 I’m graduated in Computer Engineering
 
 <hr />
 
