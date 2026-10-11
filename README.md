@@ -15,7 +15,7 @@
 <div style="display:flex; flex-direction:row; justify-content: flex-start; align-items:center; gap: 16px;">
   <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg" width="48px" height="48px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="48px" height="48px"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="48px" height="48px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="48px" height="48px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" width="48px" height="48px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" width="48px" height="48px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48px" height="48px"/>
