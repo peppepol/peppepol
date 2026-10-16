@@ -1,6 +1,7 @@
-## Hi there 💻
+## Hi there!
 - 💻 I’m graduated in Computer Engineering
-- 🌱 Exploring the world of Artificial Intelligence and its applications.
+- 🌱 Exploring the world of Artificial Intelligence and its applications
+- 🔒 Focusing on cybersecurity to build a safer digital future
 
 <hr />
 
@@ -52,5 +53,5 @@
 
 <hr />  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peppepol&hide_progress=false)](https://github.com/peppepol/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peppepol&show_icons=true)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=peppepol&theme=shadow)
+![GitHub Stats](https://readme-stats-github.pages.dev/api?username=peppepol&theme=shadow)
